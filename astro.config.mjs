@@ -9,7 +9,7 @@ import { visit } from 'unist-util-visit';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mjhecht.github.io',
-  base: '/keendreams',
+  base: '/keendreams/',
   integrations: [mdx(), sitemap()],
 	markdown: {
 		remarkPlugins: [
