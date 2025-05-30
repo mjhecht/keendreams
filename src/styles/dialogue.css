@@ -1,0 +1,15 @@
+.ai {
+  background-color: #eef6ff;
+  border-left: 4px solid #3399ff;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+
+.human {
+  background-color: #f1fff0;
+  border-left: 4px solid #33cc33;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
