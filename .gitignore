@@ -2,4 +2,3 @@ node_modules
 astro/
 .astro/
 .obsidian/
-src/.obsidian/workspace.json
