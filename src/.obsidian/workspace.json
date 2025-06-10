@@ -170,6 +170,7 @@
   },
   "active": "a745b42188aed285",
   "lastOpenFiles": [
+    "pages/[...slug].astro",
     "content/blog/first-post.md",
     "content/blog/First-AI-Chat.md",
     "content/blog/second-post.md",
