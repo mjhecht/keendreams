@@ -1,7 +1,7 @@
 ---
 title: Good News Today
 pubDate: May 23 2025
-description: Uh whatever, is this really needed?
+description: Exploring the energetics of media ingestion (GPT chat)
 ---
 
 :::human
