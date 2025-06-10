@@ -8,7 +8,8 @@ import { visit } from "unist-util-visit";
 // https://astro.build/config
 export default defineConfig({
   site: "https://mjhecht.github.io",
-  base: process.env.NODE_ENV === "production" ? "/keendreams" : "/",
+  // base: process.env.NODE_ENV === "production" ? "/keendreams" : "/",
+  base: "/keendreams",
   integrations: [mdx(), sitemap()],
   markdown: {
     remarkPlugins: [
