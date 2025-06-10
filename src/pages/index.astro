@@ -21,14 +21,17 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello!</h1>
+			<h1>Posts</h1>
       <ul class="posts">
         {
           posts.map((post) => (
             <li>
-              <a href={`/${post.id}/`}>
-                <h4 class="title">{post.data.title}: <FormattedDate date={post.data.pubDate} /></h4>                  
-              </a>
+              <a href={`/${post.id}`}>
+                <h3 class="title">{post.data.title}</h3></a>
+                <p><FormattedDate date={post.data.pubDate} /> - {post.data.description}</p>
+                
+                
+              
             </li>
           ))
         }
