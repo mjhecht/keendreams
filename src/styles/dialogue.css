@@ -1,15 +1,49 @@
+:root {
+  --primaryColor: rgb(35, 158, 230);
+  --primaryBackground: rgb(234, 247, 255);
+  --secondaryColor: rgb(30, 167, 153);
+  --secondaryBackground: rgba(226, 243, 232, 0.979);
+}
+
 .ai {
-  background-color: #eef6ff;
-  border-left: 4px solid #3399ff;
+  background-color: var(--primaryBackground);
+  border-left: 4px solid var(--primaryColor);
   padding: 1rem;
-  margin: 1rem 0;
+  margin: 2rem 0;
   border-radius: 0.5rem;
+  position: relative;
+}
+
+.ai::after {
+  content: "";
+  position: absolute;
+  left: 16px; /* Adjust to position the arrow */
+  bottom: -12px;
+  width: 0;
+  height: 0;
+  border-width: 12px 12px 0 0;
+  border-style: solid;
+  border-color: var(--primaryColor) transparent transparent transparent;
+  /* This creates a little triangle "tail" at the bottom left */
 }
 
 .human {
-  background-color: #f1fff0;
-  border-left: 4px solid #33cc33;
+  background-color: var(--secondaryBackground);
+  border-right: 4px solid var(--secondaryColor);
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 0.5rem;
+  position: relative;
+}
+
+.human::after {
+  content: "";
+  position: absolute;
+  right: 16px;
+  bottom: -12px;
+  width: 0;
+  height: 0;
+  border-width: 12px 0 0 12px;
+  border-style: solid;
+  border-color: var(--secondaryColor) transparent transparent transparent;
 }

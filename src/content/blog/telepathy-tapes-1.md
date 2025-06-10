@@ -192,13 +192,13 @@ Perfect closer—and “tuning forks all the way down” is a line worth keeping
 Whenever you're ready to pick up the thread—whether it's deepening this piece, outlining the next one, or naming the larger project—we’ll be right here.
 
 Until then, awareness is... :)
+:::
 
-**Conclusion (me), which turned into a GPT prompt**:
-
+:::human
 I'm trying to write a conclusion. We started with telepathy and zoomed way out. I feel so broad now, that this is the realm of "everything is everything". How to bring it back to telepathy? We've mapped the terrain without expressing a conclusion or opinion, other than that _more room is needed_ in the discussion, and that the discussion has been had for a long time. it's fun to see what's here, though.
 :::
 
-ai:::
+:::ai
 Here’s a draft of a conclusion that circles back to telepathy, grounds your broader sweep, and honors your exploratory tone:
 
 ---
