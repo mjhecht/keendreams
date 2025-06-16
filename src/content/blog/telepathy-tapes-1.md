@@ -3,7 +3,7 @@ title: Telepathy Tapes Part 1
 description: Exploring Telepathy, Psychedelics, and Siddhis (GPT dialogue)
 pubDate: Jun 10 2025
 ---
-	:::human
+:::human
 Can you tell me about _The Telepathy Tapes_?
 :::
 
