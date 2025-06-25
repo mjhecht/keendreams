@@ -1,11 +1,11 @@
 :root {
   --primaryColor: rgb(35, 158, 230);
   --primaryBackground: rgb(234, 247, 255);
-  --secondaryColor: rgb(30, 167, 153);
-  --secondaryBackground: rgba(226, 243, 232, 0.979);
+  --secondaryColor: rgb(48, 152, 72);
+  --secondaryBackground: rgb(242, 252, 246);
 }
 
-.ai {
+.human {
   background-color: var(--primaryBackground);
   border-left: 4px solid var(--primaryColor);
   padding: 1rem;
@@ -14,7 +14,7 @@
   position: relative;
 }
 
-.ai::after {
+.human::after {
   content: "";
   position: absolute;
   left: 16px; /* Adjust to position the arrow */
@@ -27,7 +27,7 @@
   /* This creates a little triangle "tail" at the bottom left */
 }
 
-.human {
+.ai {
   background-color: var(--secondaryBackground);
   border-right: 4px solid var(--secondaryColor);
   padding: 1rem;
@@ -36,7 +36,7 @@
   position: relative;
 }
 
-.human::after {
+.ai::after {
   content: "";
   position: absolute;
   right: 16px;
