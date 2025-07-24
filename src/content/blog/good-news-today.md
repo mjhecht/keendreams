@@ -5,9 +5,7 @@ description: Exploring the energetics of media ingestion (GPT chat)
 ---
 
 :::human
-
 Could you please tell me today’s news in a way that makes me feel better about the world?
-
 :::
 
 :::ai
@@ -17,18 +15,15 @@ Absolutely! Let's brighten your day with some uplifting news from around the wor
 Note: I’ve Omitted most of this content. It _is_ uplifting: I recommend this query. However, there is something deeper I'm looking for which is not simply to view good news while avoiding "bad news". I'm looking for a deeper more existential shift, here.
 
 :::human
-
 Thanks. Can you tell me about some victories in fighting back against the Trump agenda, which yield a sense of hope?
-
 :::
 
-[a.i. searches the Web, and generates a collection of hopeful stories about political wins and cases and causes for optimism. I recommend my above prompt.]
+_AI searches the Web, and generates a collection of hopeful stories about political wins and cases and causes for optimism. I recommend my above prompt._
 
 So this was very worthwhile: Good news in another sense. In generating and fueling hope, in connecting and aligning with the sense of _others_ out there fighting and winning, I feel a subtle sense of empowerment.
 
-
 :::human
-Who actually thinks Trump is a good president? Who are these people? What’s really going on? I know his approval ratings are low, but this often happens with presidents. Which people actually think he’s good for the country, and why is that? One perspective is that many are suffering spiritual malaise or disconnection from authentic purpose, and we need to “shake things up” and “stress test our system”. But that’s a positive spin or silver lining on what seems to be "collective degradation of the moral fabric" or some such phrasing. And, how would you counsel the Conservative side, which is using A.I. as well? I guess I’m trying to understand conservative values more, and how they align with Trumpism. At the same time, there are two irreconcilable/incompatible narratives or truths being shared via media. Is “spiritual malaise” the only common root? Where are the alignments?
+Who actually thinks Trump is a good president? Who are these people? What’s really going on? I know his approval ratings are low, but this often happens with presidents. Which people actually think he’s good for the country, and why is that? One perspective is that many are suffering spiritual malaise or disconnection from authentic purpose, and we need to “shake things up” and “stress test our system”. But that’s a positive spin or silver lining on what seems to be "collective degradation of the moral fabric" or some such phrasing. And, how would you counsel the Conservative side, which is using AI as well? I guess I’m trying to understand conservative values more, and how they align with Trumpism. At the same time, there are two irreconcilable/incompatible narratives or truths being shared via media. Is “spiritual malaise” the only common root? Where are the alignments?
 :::
 
 :::ai
