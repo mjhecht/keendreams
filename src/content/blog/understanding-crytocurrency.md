@@ -2,7 +2,7 @@
 pubDate: July 21 2025
 description: "A wide-ranging exploration of crypto: its significance, synergy with AI, ethical critiques, and what it means for value, governance, and collective imagination"
 ---
-The following is a lightly edited transcript of a conversation I had with ChatGPT o4, shared as a public exploration of cryptocurrency, AI, and values-aligned technology.
+The following is a lightly edited transcript of a conversation I had with GPT-4o, shared as a public exploration of cryptocurrency, AI, and values-aligned technology.
 
 :::human
 Hi, is cryptocurrency here to stay? Sure... but would it be good for me to invest in it? I've read about it and have a rough understanding, but would like to know more.
@@ -425,7 +425,7 @@ Would you like me to go deeper into any of those thinkers or projects? Or make y
 :::
 
 :::human
-Ocean Protocol seems like it enables addressing the problem of "enshittification" of the entire Web by ad-based models—was that part of its intent? It also addresses the problem of fewer people visiting websites (because they are going to AI for these answers). I wonder how it would affect writing quality, and the idea of "AI slop". This clearly fits into my continuing theme around how AI is affecting us as humans, fundamentally. When writing and even thinking can be outsourced, enhanced, augmented: how do our minds change?
+Ocean Protocol seems like it enables addressing the problem of "[enshittification](https://www.google.com/search?q=enshittification)" of the entire Web by ad-based models—was that part of its intent? It also addresses the problem of fewer people visiting websites (because they are going to AI for these answers). I wonder how it would affect writing quality, and the idea of "AI slop". This clearly fits into my continuing theme around how AI is affecting us as humans, fundamentally. When writing and even thinking can be outsourced, enhanced, augmented: how do our minds change?
 
 dClimate made me laugh: "applying intelligence to real-world planetary systems". Noting the scalability in that thinking!
 
