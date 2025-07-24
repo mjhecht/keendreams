@@ -1,27 +1,28 @@
 ---
 description: Exploring Telepathy, Psychedelics, and Siddhis (GPT dialogue)
 pubDate: Jun 10 2025
+draft: "true"
 ---
 
 :::human
-Can you tell me about _The Telepathy Tapes_?
+Can you please tell me about _The Telepathy Tapes_?
 :::
 
 :::ai
 **(Searching the Web)**
-The Telepathy Tapes is a 10-episode podcast series released in late 2024, hosted by documentary filmmaker Ky Dickens. The podcast explores claims that some nonverbal autistic individuals possess telepathic abilities, allowing them to communicate thoughts directly with others, particularly their parents. These assertions are primarily based on anecdotal accounts and experiments conducted with the assistance of neuroscientist Dr. Diane Hennacy Powell.​
+_The Telepathy Tapes_ is a 10-episode podcast series released in late 2024, hosted by documentary filmmaker Ky Dickens. The podcast explores claims that some nonverbal autistic individuals possess telepathic abilities, allowing them to communicate thoughts directly with others, particularly their parents. These assertions are primarily based on anecdotal accounts and experiments conducted with the assistance of neuroscientist Dr. Diane Hennacy Powell. ([The Guardian](https://www.theguardian.com/tv-and-radio/2025/jan/25/the-week-in-audio-the-telepathy-tapes-ky-dickens-self-help-scottee-thinking-allowed-adventure-playgrounds-review?utm_source=chatgpt.com "The week in audio: The Telepathy Tapes; Self Help; Thinking Allowed: Playgrounds - review"), [The Autism Cafe](https://theautismcafe.com/the-telepathy-tapes-podcast-autism-review-pseudoscience/?utm_source=chatgpt.com "The Telepathy Tapes: Separating Science From Pseudoscience In ..."), [The Telepathy Tapes](https://thetelepathytapes.com/?utm_source=chatgpt.com "The Telepathy Tapes | Explore Beyond Words"))
 
-Throughout the series, Dickens presents stories of families who believe their non-speaking children can read minds, often demonstrated through tasks like identifying unseen numbers or images. These demonstrations frequently involve methods such as facilitated communication (FC), rapid prompting method (RPM), or spelling to communicate (S2C). These techniques have been widely discredited by the scientific community due to concerns that facilitators may unconsciously influence the responses, leading to questions about the authenticity of the communications.​
+Throughout the series, Dickens presents stories of families who believe their non-speaking children can read minds, often demonstrated through tasks like identifying unseen numbers or images. These demonstrations frequently involve methods such as facilitated communication (FC), rapid prompting method (RPM), or spelling to communicate (S2C). These techniques have been widely discredited by the scientific community due to concerns that facilitators may unconsciously influence the responses, leading to questions about the authenticity of the communications. ([Podcast Review](https://podcastreview.org/review/the-telepathy-tapes/?utm_source=chatgpt.com "The Dangerous Charm of The Telepathy Tapes - Podcast Review"), [The Guardian](https://www.theguardian.com/society/2025/apr/13/it-can-break-you-life-for-parents-of-autistic-children-can-be-exhausting-one-podcast-is-offering-hope-is-it-real?utm_source=chatgpt.com "'It can break you': life for parents of autistic children can be exhausting. One podcast is offering hope. Is it real?"))
 
-The podcast has garnered significant attention, topping charts in the U.S. and U.K., and has been endorsed by public figures like Joe Rogan. However, it has also faced substantial criticism from scientists and skeptics. Critics argue that the podcast promotes pseudoscientific ideas and lacks rigorous scientific methodology. For instance, Stuart Vyse, writing for Skeptical Inquirer, described the series as a "dangerous cornucopia of pseudoscience," expressing concern that it may exploit the hopes of desperate parents seeking communication with their children .​
+The podcast has garnered significant attention, topping charts in the U.S. and U.K., and has been endorsed by public figures like Joe Rogan. However, it has also faced substantial criticism from scientists and skeptics. Critics argue that the podcast promotes pseudoscientific ideas and lacks rigorous scientific methodology. For instance, Stuart Vyse, writing for _Skeptical Inquirer_, described the series as a "dangerous cornucopia of pseudoscience," expressing concern that it may exploit the hopes of desperate parents seeking communication with their children. ([VICE](https://www.vice.com/en/article/telepathy-tapes-podcast-autism/?utm_source=chatgpt.com "The Problem With the 'Magical Children' of the Telepathy Tapes - VICE"), [Latest news & breaking headlines](https://www.thetimes.co.uk/article/telepathy-tapes-review-podcast-rnmspsn9h?utm_source=chatgpt.com "The Telepathy Tapes review - this hit podcast has contempt for science"), [Skeptical Inquirer](https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/?utm_source=chatgpt.com "The Telepathy Tapes: A Dangerous Cornucopia of Pseudoscience"))
 
-Despite the controversy, the podcast has sparked widespread discussion about the experiences of nonverbal autistic individuals and the lengths to which families will go to connect with their loved ones. While some listeners find the stories inspiring, others caution against embracing unproven methods that may offer false hope.​
+Despite the controversy, the podcast has sparked widespread discussion about the experiences of nonverbal autistic individuals and the lengths to which families will go to connect with their loved ones. While some listeners find the stories inspiring, others caution against embracing unproven methods that may offer false hope. ([The Guardian](https://www.theguardian.com/society/2025/apr/13/it-can-break-you-life-for-parents-of-autistic-children-can-be-exhausting-one-podcast-is-offering-hope-is-it-real?utm_source=chatgpt.com "'It can break you': life for parents of autistic children can be exhausting. One podcast is offering hope. Is it real?"))
 
-For those interested in exploring the podcast, The Telepathy Tapes is available on major platforms, including Spotify and Apple Podcasts.
+For those interested in exploring the podcast, _The Telepathy Tapes_ is available on major platforms, including Spotify and Apple Podcasts.
 :::
 
 :::human
-It is experientially obvious to me that forms of essentially telepathic communication, although not necessarily verbal in the ways that this series discusses, are available for example within psychedelic states, such as with ayahuasca. I'm curious to attempt to describe these phenomena, a little bit more. It is obvious that we can tune in to subtle energy fields and communicate and move energy directly within these fields, and attune at the level of at least pre-verbal thought, with the assistance of these medicines.
+It's experientially obvious to me that forms of essentially "telepathic" communication, although not necessarily verbal in the ways that this series presents, are available: for example, within psychedelic states, such as with ayahuasca. I'm curious to attempt to describe these phenomena, a little bit more. It is obvious that we can tune in to subtle energy fields, communicate, and interact with energy directly within these fields.
 :::
 
 :::ai
@@ -37,7 +38,7 @@ It can feel as if the **psychedelic field is a shared substrate**, and that some
 :::
 
 :::human
-One additional thing I'd like to add is the phenomenon of spiritual powers or "siddhis". I've heard multiple times about someone gaining the ability to hear or listen to others' thoughts. To hear all the thoughts of those around them, let's say.
+Tell me about spiritual powers or "siddhis". In stories I've heard, one such power can be the ability to hear others' thoughts, effortlessly.
 :::
 
 :::ai
@@ -66,7 +67,7 @@ It makes sense to bring this into the conversation around “telepathic communic
 :::
 
 :::human
-Is it possible that the phenomenon described in _Telepathy Tapes_ has a foundation in this kind of telepathy? In other words, can severely autistic kids learn to tune in to others' thoughts?
+Is it possible that the phenomenon described in _The Telepathy Tapes_ has a foundation in this kind of experience? In other words, can highly autistic kids _learn_ to tune in to others' thoughts, given that the brain might be able to support that feature?
 :::
 
 :::ai
@@ -116,13 +117,13 @@ Still—it’s worth asking: _what if the modern, skeptical frame is too narrow 
 :::
 
 :::human
-I didn't read (_The Telepathy Trap_)\[https://www.theatlantic.com/science/archive/2025/03/telepathy-tapes-podcast-spelling-facilitated-communication/681895/\] article in The Atlantic, because it was behind a paywall. A response to it in [another blog](https://thewholesocial.substack.com/p/telepathy-tapes-telepathy-trap) reflected on it and pointed its criticism at scientific knee-jerk skepticism: rather than being curious about and studying the depths of attunement and what our psyches are capable of (rich areas for exploration), we focus more on shutting the door on our curiosity. That's something you pointed out, here.
+I didn't read [_The Telepathy Trap_](https://www.theatlantic.com/science/archive/2025/03/telepathy-tapes-podcast-spelling-facilitated-communication/681895) article in _The Atlantic_, because it was behind a paywall. A reflection on it in [this blog](https://thewholesocial.substack.com/p/telepathy-tapes-telepathy-trap) criticized scientific knee-jerk skepticism: rather than being curious about what might be really going on here and how: e.g., studying the depths of our capabilities for attunement, we insist on shutting the door: "case closed". That's something you pointed out, here.
 :::
 
 :::ai
-Thank you for sharing the article from _The Whole Social_ Substack. This piece offers a thoughtful critique of Daniel Engber's _The Atlantic_ article, _The Telepathy Trap_, and delves into the broader implications of scientific skepticism.
+Thank you for sharing the article from _The Whole Social_ Substack. This piece offers a thoughtful critique of Daniel Engber's _The Atlantic_ article, _The Telepathy Trap_, and delves into the broader implications of scientific skepticism.
 
-The Substack article challenges what it describes as "scientific knee-jerk skepticism," suggesting that such an approach may hinder our understanding of the depths of human attunement and the potential capabilities of our psyches. It advocates for a more open-minded exploration of phenomena like telepathy, especially in contexts involving nonspeaking autistic individuals and altered states of consciousness.
+The Substack article challenges what it describes as "scientific knee-jerk skepticism," suggesting that such an approach may hinder our understanding of the depths of human attunement and the potential capabilities of our psyches. It advocates for a more open-minded exploration of phenomena like telepathy, especially in contexts involving nonspeaking autistic individuals and altered states of consciousness.
 
 This perspective aligns with our earlier discussion about the importance of maintaining curiosity and openness when investigating unconventional experiences. While it's crucial to approach such topics with critical thinking, dismissing them outright may prevent us from uncovering valuable insights into human consciousness and connection.
 
@@ -130,9 +131,9 @@ If you're interested in further exploring this topic, I can suggest additional r
 :::
 
 :::human
-Going back to the response in _The Whole Social_ blog: I do believe it's worth scientifically studying these realms, because it widens what is included within our very rational lens, within this technological society. We need to build the basis for motivating an expansion in these tender tissues that get dismissed in our materialist paradigm. When we build that vocabulary, it allows collective consciousness to explore there. So it's valuable.
+Going back to the response in _The Whole Social_ blog: I do believe it's worth scientifically studying these realms, which widens the realm of what we can see. We need to build the basis for motivating an expansion around these tender tissues that get dismissed in our materialist paradigm. When we build vocabulary, it allows consciousness to explore there. So it's valuable.
 
-At the same time, I wonder how valuable it is to direct scientific study at self-contained modalities and their worlds, like ayahuasca ceremony—although there already is a pretty vast amount of literature, and I'm curious to read more of the thought about it, which captures cultural ways of being, some of which I've touched and experienced, but haven't touched much through others' writing. And, studying what is happening in these realms with our (crude) scientific tools, could actually validate the importance of these spaces for healing. Bridging these realms seems to be a big part of my work.
+At the same time, I wonder how valuable it is to direct scientific study at self-contained modalities and their worlds, like ayahuasca ceremony (although there already is a pretty vast amount of literature, and I'm curious to read more of the thought about it, which captures cultural ways of being, some of which I've touched and experienced, but haven't touched much through others' writing. And, studying what is happening in these realms with our (crude) scientific tools, could actually validate the importance of these spaces for healing. Bridging these realms seems to be a big part of my work.
 :::
 
 :::ai
