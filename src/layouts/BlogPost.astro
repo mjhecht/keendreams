@@ -51,6 +51,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+      .desc {
+        font-style: italic;
+      }
+
 		</style>
 	</head>
 
@@ -73,9 +77,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 								)
 							}
 						</div>
-						<h1>{title}</h1>
-						<hr />
+						<h1>{title}</h1>            
+						<hr />            
 					</div>
+          <p class="desc">{description}</p>
 					<slot />
 				</div>
 			</article>
