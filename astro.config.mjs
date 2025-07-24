@@ -3,6 +3,8 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import remarkDirective from "remark-directive";
+import wikiLink from "@portaljs/remark-wiki-link";
+
 import { visit } from "unist-util-visit";
 
 // https://astro.build/config
@@ -28,6 +30,14 @@ export default defineConfig({
           });
         };
       },
+      [
+        wikiLink,
+        {
+          // "obsidian-short" handles [[filename]] and [[filename|Alias]]
+          pathFormat: "obsidian-short",
+          hrefTemplate: (permalink, alias) => `/blog/${permalink}`,
+        },
+      ],
     ],
   },
 });
