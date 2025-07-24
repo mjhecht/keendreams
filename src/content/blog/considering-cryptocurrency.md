@@ -192,7 +192,7 @@ Would you like me to pull up that Eisenstein episode and summarize his core argu
 :::
 
 :::human
-Sure: very quickly, what are Eisenstein's core arguments? I've read [Sacred Economics](https://sacred-economics.com/), a long while back, and understand somewhat his social arguments. Finally, there is clearly an intersection / synergy / interweaving that's available and certainly happening between crytocurrency and AI. What are some ideas being explored around this?
+Sure: very quickly, what are Eisenstein's core arguments? I've read [Sacred Economics](https://sacred-economics.com/), a long while back, and understand somewhat his social arguments. Finally, there is clearly an intersection / synergy / interweaving that's available and certainly happening between cryptocurrency and AI. What are some ideas being explored around this?
 :::
 
 :::ai
