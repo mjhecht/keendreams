@@ -1,6 +1,7 @@
 ---
 pubDate: Jul 17 2025
 description: An early chat with GPT 4o
+draft: "true"
 ---
 :::human
 Do humans hallucinate like A.I.'s do?

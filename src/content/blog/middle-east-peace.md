@@ -1,6 +1,7 @@
 ---
 pubDate: Jun 25, 2025
 description: A conversation with GPT framing hope and possibility
+draft: "true"
 ---
 
 Conversation with ChatGPT o4
