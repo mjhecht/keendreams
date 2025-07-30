@@ -1,6 +1,7 @@
 ---
 pubDate: July 21 2025
 description: "A wide-ranging exploration of crypto: its significance, synergy with AI, ethical critiques, and what it means for value, governance, and collective imagination"
+heroImage: /gpt-crypto.png
 ---
 The following is a lightly edited transcript of a conversation I had with GPT-4o, shared as a public exploration of cryptocurrency, AI, and values-aligned technology.
 
