@@ -1,9 +1,12 @@
 ---
 pubDate: July 27 2025
-description: On Tom Robbins and one of my favorite books
+description: On Tom Robbins and one of my favorite novels
+inlineImageR: fierce_invalids-cover.jpg
 ---
+A conversation with GPT-4o, while sitting in a park eating some Himalayan food from a nearby food truck.
+
 :::human
-Why is _Fierce Invalids Home from Hot Climates_ such a good book?
+Why is [_Fierce Invalids Home from Hot Climates_](https://www.amazon.com/Fierce-Invalids-Home-Hot-Climates/dp/055337933X) such a good book?
 :::
 
 :::ai
@@ -45,7 +48,7 @@ Have you read other Robbins books, or is this your first dip into his world?
 :::
 
 :::human
-I started with _Jitterbug Perfume_, which a dear friend in college turned me on to. If was kinda cool but I didn’t quite get it. When I read _Fierce Invalids..._, that one kinda blew me away. I've named it as one of my favorite books, for a long time. May be due for a rereading. And this all makes me curious about Tom Robbins himself. Has he had any psychedelic experiences, back in his day? Was he a child of the 60’s? What his own sex life like? Anyway, I tried a few others by Robbins. _Half Asleep in Frog Pajamas_ was one I got through. And I started _Another Roadside Attraction_, and maybe got a quarter of the way through. The language was just a bit zany, bizarre, wayyyyy too much. If you’re going to write about circus stuff, the language curlicues the already bizarre topic into a land that’s just too bawdry, uh, whatever, I didn’t push through it into something actually happening. But something about _Fierce Invalids_… grabbed me.
+I started with _Jitterbug Perfume_, which a dear friend in college turned me on to. It was kinda cool but I didn’t quite get it. When I read _Fierce Invalids..._, that one kinda blew me away. I'd been naming it as one of my favorite books, for a long time. May be due for a rereading. And this all makes me curious about Tom Robbins himself. What kinds of psychedelic experiences did he have? He was a child of the 60’s, right? What was his own sex life like? Anyway, I tried a few other novels by Robbins. _Half Asleep in Frog Pajamas_ was one I got through. And I started _Another Roadside Attraction_, and maybe got a quarter of the way through. The language was zany, bizarre, wayyyyy too much. If you’re going to write about circus stuff... here, the language curlicues the already bizarre topic into a land that’s just too bawdry, like neon steampunk, to make sense of... I didn't stick with it. But something about _Fierce Invalids_ really grabbed me.
 :::
 
 :::ai
@@ -85,7 +88,7 @@ If you’re ever in the mood, his memoir _Tibetan Peach Pie_ is much less zany a
 :::
 
 :::human
-I think it was just the character of Switters, and the fact that the first few pages, especially the first page, made absolutely no sense at all, but then upon finishing the book and rereading the beginning, of course it all made perfect sense. (He's got this parrot, and a zany beloved grandmother he calls Maestra, and elaborate sentence structures and vocabulary are coming at you. I guess I would say then there was a holographic quality to the novel. I read it before I’d had any exposure to psychedelics, and was pretty unconscious around my own sexuality, but found something so colorful and awake about the book. It was Switters’ character, definitely. He was a caricature of himself, superhuman in some ways.
+I think it was just the character of Switters, and the fact that the first few pages, especially the first page, made absolutely no sense at all, but then upon finishing the book and rereading the beginning, of course it all made perfect sense. He's got this parrot, and a beloved guru of a grandmother he calls Maestra, and hard-to-parse sentence structures and vocabulary are coming at you. I guess I would say then there was a holographic quality to the novel. I read it before I’d had any exposure to psychedelics or more conscious sexuality, but found something so colorful and awake about the book. It was Switters’ character, definitely. He was a caricature of himself, superhuman in some ways.
 :::
 
 :::ai
@@ -100,3 +103,4 @@ There’s something about his humor and Switters’ ridiculous-yet-deep persona 
 Would you say the “holographic” effect, or Switters’ outlandishness, changed the way you saw fiction or what a novel could do? Or did it just live in its own category in your mind?
 :::
 
+That was where the conversation trailed off. But it rekindled my appreciation for this book, and encouraged me to return to Robbins' work. I think I will check out _Tibetan Peach Pie_...
