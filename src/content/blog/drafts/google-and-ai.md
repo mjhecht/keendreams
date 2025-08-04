@@ -1,3 +1,8 @@
+---
+pubDate: Jul 10 2025
+description: TBD...
+title: Google and AI
+---
 :::human
 Is Google “scared” because so many people are using ChatGPT instead of Google Search? I also see Google rapidly integrating and rolling out AI into its properties, and that seems to have been accelerating in the last month.
 :::
