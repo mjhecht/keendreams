@@ -20,7 +20,9 @@ export default defineConfig({
           visit(tree, node => {
             if (
               node.type === "containerDirective" &&
-              (node.name === "ai" || node.name === "human")
+              (node.name === "ai" ||
+                node.name === "human" ||
+                node.name === "written")
             ) {
               node.data = {
                 hName: "div",

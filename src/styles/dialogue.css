@@ -3,6 +3,20 @@
   --primaryBackground: rgb(234, 247, 255);
   --secondaryColor: rgb(48, 152, 72);
   --secondaryBackground: rgb(242, 252, 246);
+
+  --paper: rgb(222, 222, 222);
+  --paperEdge: rgb(128, 128, 128);
+}
+
+.written {
+  background-color: var(--paper);
+  border-left: 4px solid var(--paperEdge);
+  padding: 0.5rem 1rem;
+  padding-bottom: 1pt;
+  margin: 2rem 0;
+  border-radius: 0.5rem;
+  position: relative;
+  font-family: monospace;
 }
 
 .human {
