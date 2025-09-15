@@ -15,7 +15,7 @@ Clearly his talk was given pre-AI! One of his comments in the video is:
 ...and yet I wonder how many people by now have actually consulted AI to discuss whether they should have a second child... :)
 
 :::human
-How have Sam Harris’ views matured since he wrote The Moral Landscape and gave a TED talk about 16 years ago, around the topic?
+	How have Sam Harris’ views matured since he wrote _The Moral Landscape_ and gave a TED talk about 16 years ago?
 :::
 
 :::ai
@@ -409,7 +409,7 @@ Would you like me to contrast Harris’s blind spots with, say, Gabor Maté’s 
 :::
 
 :::human
-Yes, thank you. This really tracks. I listened to his TED talk and couldn’t feel anything while tuning in to him: I’m hyper-attuned around relational dynamics and feelings. I did note the clarity, but there was a sense of bluntness and flatness to the arguments: they’re stereotyped/blunt, highly logical and yet not grounded in the whys, the forces, the historical needs/reasons/causes, the collective choice points, the larger arc of human evolution and what this might say about us and how we can change. It doesn’t even seem prescriptive, it just invites ofhers to seek that similar clarity and willingness to assert things, about which there might still be just as much consequent disagreement. It’s interesting that around the time of his TED talk there wasn’t AI… what would he say about how AI could be an aid to the scientific study and guidance around the moral landscape? I imagine he would be on board, yet cautious…
+Yes, thank you. This really tracks. I listened to his TED talk and couldn’t feel anything while tuning in to him: I can be hyper-attuned around relational dynamics and feelings. I did note the clarity, but there was a sense of bluntness and flatness to the arguments: they’re stereotyped, highly logical and yet not grounded in the whys, the forces, the historical needs/reasons/causes, the collective choice points, the larger arc of human evolution and what this might say about us and how we can change. It doesn’t even seem prescriptive, it just invites others to seek that similar clarity and willingness to assert things, about which there might still be just as much consequent disagreement. It’s interesting that around the time of his TED talk there wasn’t AI… what would he say about how AI could be an aid to the scientific study and guidance around the moral landscape? I imagine he would be on board, yet cautious…
 :::
 
 :::
