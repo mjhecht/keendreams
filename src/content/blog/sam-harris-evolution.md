@@ -1,12 +1,12 @@
 ---
 pubDate: Sep 15 2025
-description: Have Sam Harris' views evolved since 2010?
+description: Have Sam Harris' views evolved since 2010, when he gave a TED Talk around the ideas in his book, The Moral Landscape? Then we zoom out to bring in "warmer" views
 ---
-A friend recently sent me this [Sam Harris TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww) which I rewatched, noting the talk was from 15 years ago, c.a. 2010. Sam's words made sense, but I noticed I didn't _feel_ anything, listening to him.
+A friend recently sent me this [Sam Harris TED Talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww) which I rewatched, noting the talk was from 15 years ago, c.a. 2010. Sam's words made sense, but I noticed I didn't _feel_ anything, listening to him.
 
 At that time, I was working at Google, and Sam visited our Santa Monica office to give a talk in person, promoting his new book, _The Moral Landscape_. I attended the talk, read the book, and even sent Sam a brief email, which he never replied to.
 
-Rewatching the video now, in 2025, I'd wondered if Harris's views had evolved or matured since that point. The following discussion with ChatGPT 5 helped me understand Sam's personality, origin story, and message.
+Rewatching the video now, in 2025, I'd wondered if Harris's views had evolved or matured since that point. The following discussion with ChatGPT 5 helped me understand Sam's personality, origin story, and think about his message.
 
 Clearly his talk was given pre-AI! One of his comments in the video is:
 
@@ -15,7 +15,7 @@ Clearly his talk was given pre-AI! One of his comments in the video is:
 ...and yet I wonder how many people by now have actually consulted AI to discuss whether they should have a second child... :)
 
 :::human
-	How have Sam Harris’ views matured since he wrote _The Moral Landscape_ and gave a TED talk about 16 years ago?
+How have Sam Harris’ views matured since he wrote _The Moral Landscape_ and gave a TED talk about 16 years ago?
 :::
 
 :::ai
@@ -412,7 +412,7 @@ Would you like me to contrast Harris’s blind spots with, say, Gabor Maté’s 
 Yes, thank you. This really tracks. I listened to his TED talk and couldn’t feel anything while tuning in to him: I can be hyper-attuned around relational dynamics and feelings. I did note the clarity, but there was a sense of bluntness and flatness to the arguments: they’re stereotyped, highly logical and yet not grounded in the whys, the forces, the historical needs/reasons/causes, the collective choice points, the larger arc of human evolution and what this might say about us and how we can change. It doesn’t even seem prescriptive, it just invites others to seek that similar clarity and willingness to assert things, about which there might still be just as much consequent disagreement. It’s interesting that around the time of his TED talk there wasn’t AI… what would he say about how AI could be an aid to the scientific study and guidance around the moral landscape? I imagine he would be on board, yet cautious…
 :::
 
-:::
+:::ai
 Yes — that _exactly_ captures the paradox of Harris: he shines a piercing flashlight on an issue, but doesn’t always give you the warmth, the why, or the connective tissue that makes change possible. Let me take this in two parts: first, the **contrast with someone like Gabor Maté**, and then what Harris might say about **AI and the moral landscape**.
 
 ---
