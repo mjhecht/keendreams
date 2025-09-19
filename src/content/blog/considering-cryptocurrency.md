@@ -428,13 +428,13 @@ Would you like me to go deeper into any of those thinkers or projects? Or make y
 :::human
 Ocean Protocol seems like it enables addressing the problem of "[enshittification](https://www.google.com/search?q=enshittification)" of the entire Web by ad-based models—was that part of its intent? It also addresses the problem of fewer people visiting websites (because they are going to AI for these answers). I wonder how it would affect writing quality, and the idea of "AI slop". This clearly fits into my continuing theme around how AI is affecting us as humans, fundamentally. When writing and even thinking can be outsourced, enhanced, augmented: how do our minds change?
 
-dClimate made me laugh: "applying intelligence to real-world planetary systems". Noting the scalability in that thinking!
+dClimate made me laugh: "applying intelligence to real-world planetary systems". Noting the scalability in that thinking! Because we might need to scale beyond one planet, anytime soon?
 
 Proof of Humanity: why only humans? What about non-human animals? Another very weird contemplation space.
 
 "Visionary thinkers" section: how many of these individuals will be at Burning Man this year? 😃 (intended as a joke). I was also wondering where the female names in that list were, but I see a couple potentially.
 
-There's obviously deep thought going into this, and it's part of the noospheric evolution of what is possible within collective thought forms. "Computational entities" that exist in the ether-space, facilitating organization in ways that bodies gathering in shared spaces, even that bodies responding to information shared through traditional media (TV, radio, newspapers, and now the Internet) can't metabolize in ways that are fast enough and accurate enough, and that include too much bias, to respond to in ways that are attuned to more important values. I'm starting to see how AI + crypto is a landscape of something new that's emerging, a collective playspace where we're building that Star Trek future... in ways that the show itself never even thought of.
+There's obviously deep thought going into this, and it's part of the noospheric evolution of what is possible within collective thought forms. "Computational entities" that exist in the ether-space, facilitating organization in ways that bodies gathering in shared spaces, even that bodies responding to information shared through traditional media (TV, radio, newspapers, and now the Internet) can't metabolize in ways that are fast enough and accurate enough, and that include too much bias, to respond to in ways that are attuned to more important values. I'm starting to see how AI + crypto is a landscape of something new that's emerging, a collective playspace where we're building that Star Trek future... in ways that the show itself never contemplated.
 
 I'd like to pause the conversation after your response here (need to get back to work), but I'd like to come back to this conversation and continue going deeper. (Of course, here's AI facilitating learning of this individual—about crypto, in this case. Which is a part of that synergy, itself. :)
 :::
