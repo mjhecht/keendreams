@@ -146,6 +146,7 @@ The opportunity lies in rebuilding shared civic identity, not through forced cen
 ---
 
 Would you like to zoom in on any of these areas—such as exploring the psychological profile of Trump voters, or what values-based dialogue could look like across the divide?
+:::
 
 :::human
 The fact that you can synthesize this is what gives me hope. It points to language itself as the “empirical” (in a sense) universal source of human truth. The language model boils down the “true truth” universals, even when these are shaped by personality-guiding value sliders (how we interface with what you have gleaned in digesting all the data).
