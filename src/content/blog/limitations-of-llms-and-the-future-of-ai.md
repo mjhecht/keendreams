@@ -231,7 +231,7 @@ Each of these reframes reduces the myth of a disembodied, universal intelligence
 :::
 
 :::human
-This topic space is incredibly rich, which makes sense because we are dreaming the future. So I actually wonder if we can work backwards… science fiction as a genre could be useful in backing into possibilities with imagined concrete examples. I know the future will be a lot weirder than any sf author can conceive… but who are some authors exploring this space through fiction, who are relatively up to date? I liked some of Ted Chiang’s and (the author of The Paper Menagerie)’s work - although I didn’t resonate much with Chaing’s “Blurry JPEG” New Yorker article. Maybe I’ll explore those limitations in another conversation.
+This topic space is incredibly rich, which makes sense because we are dreaming the future. So I actually wonder if we can work backwards… science fiction as a genre could be useful in backing into possibilities with imagined concrete examples. I know the future will be a lot weirder than any sf author can conceive… but who are some authors exploring this space through fiction, who are relatively up to date? I liked some of Ted Chiang’s and (the author of _The Paper Menagerie_)’s work - although I didn’t resonate much with Chaing’s “Blurry JPEG” New Yorker article. Maybe I’ll explore those limitations in another conversation.
 :::
 
 :::ai
@@ -282,7 +282,7 @@ If you want, I can try to pull together a **short curated list** of SF stories (
 :::
 
 :::human
-_Tokyo Sympathy Tower_ gave me some prickles, above. If I’m trusting my body, I suppose that’s where I’d start. I think I’m less interested in the wild sensory modalities than in exploring positive cultural possibilities… but that are grounded, as well. I wanted to be affected/changed by what I read: ideas which expand my mind and conceptions around what’s possible, through some kind of mysterious limbic resonance with the author… that’s why I liked some of the stories in The Paper Menagerie. There were affective… I learned about my/this reality, in a deeper way.
+_Tokyo Sympathy Tower_ gave me some prickles, above. If I’m trusting my body, I suppose that’s where I’d start. I think I’m less interested in the wild sensory modalities than in exploring positive cultural possibilities… but that are grounded, as well. I wanted to be affected/changed by what I read: ideas which expand my mind and conceptions around what’s possible, through some kind of mysterious limbic resonance with the author… that’s why I liked some of the stories in _The Paper Menagerie_. There were affective… I learned about my/this reality, in a deeper way.
 :::
 
 :::ai
