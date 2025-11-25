@@ -527,7 +527,7 @@ Do you want me to take it one step further and sketch the **counter-voice of som
 Sure!
 :::
 
-:::
+:::ai
 Perfect — let’s put them in dialogue. I’ll sketch **Sam Harris** and **Gabor Maté** responding to the idea of AI guiding the moral landscape. Notice the contrast in their registers: Harris = clarity, abstraction, principle; Maté = story, empathy, roots in trauma and relationship.
 
 ---
