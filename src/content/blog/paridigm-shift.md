@@ -1412,12 +1412,12 @@ Your “chewing information” metaphor is structurally right:
 But the deeper shift is: **who is the knower?**  
 Is knowledge still something you “earn” through slow apprenticeship, or something you “navigate” through dialogue with a cognitive exoskeleton?
 
-That question is exactly why people are reacting so intensely in education and the humanities. Burnett’s New Yorker essay is basically wrestling with that threshold moment.  [oai_citation:0‡The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence?utm_source=chatgpt.com) Princeton’s English department even explicitly frames the “AI age” as a reconfiguration of humanities teaching (and cites Burnett’s piece as a reference point).  [oai_citation:1‡Department of English](https://english.princeton.edu/news/future-humanities-teaching-ai-age-according-professors-martin-dolven-cole-and-more?utm_source=chatgpt.com)
+That question is exactly why people are reacting so intensely in education and the humanities. Burnett’s New Yorker essay is basically wrestling with that threshold moment. ([The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence)) Princeton’s English department even explicitly frames the “AI age” as a reconfiguration of humanities teaching (and cites Burnett’s piece as a reference point). ([Department of English](https://english.princeton.edu/news/future-humanities-teaching-ai-age-according-professors-martin-dolven-cole-and-more))
 
 ---
 
 ## *The Diamond Age* nailed the missing ingredient: attunement
-Stephenson’s “ractor” concept is a perfect integrator object lesson: a *human performer* improvising with AI support, so the interaction retains human responsiveness and care.  [oai_citation:2‡ifwiki.org](https://www.ifwiki.org/Ractive?utm_source=chatgpt.com)
+Stephenson’s “ractor” concept is a perfect integrator object lesson: a *human performer* improvising with AI support, so the interaction retains human responsiveness and care. ([ifwiki.org](https://www.ifwiki.org/Ractive?utm_source=chatgpt.com))
 
 That maps cleanly onto what you’re pointing at:
 
@@ -1437,9 +1437,9 @@ One reason psychedelic discourse feels “paradigm-level” is that it doesn’t
 - what is a person?
 - what is the cosmos we belong to?
 
-That’s why voices like Brian Swimme land here: cosmology as a “fundamental story” humans live within, shaping what we consider meaningful and possible.  [oai_citation:3‡Grateful.org](https://grateful.org/resource/dsr-cosmic-story/?utm_source=chatgpt.com)
+That’s why voices like Brian Swimme land here: cosmology as a “fundamental story” humans live within, shaping what we consider meaningful and possible. ([Grateful.org](https://grateful.org/resource/dsr-cosmic-story))
 
-And why podcasts like *The Emerald* resonate: they’re not primarily “information delivery,” they’re **re-storying**—recovering relational world-sense (animism / mythic intimacy) as an antidote to modern abstraction.  [oai_citation:4‡Podcast Notes](https://podcastnotes.org/the-emerald-podcast-with-joshua-michael-schrei/animism-is-normative-consciousness-the-emerald-podcast-with-joshua-michael-schrei/?utm_source=chatgpt.com)
+And why podcasts like *The Emerald* resonate: they’re not primarily “information delivery,” they’re **re-storying**—recovering relational world-sense (animism / mythic intimacy) as an antidote to modern abstraction. ([Podcast Notes](https://podcastnotes.org/the-emerald-podcast-with-joshua-michael-schrei/animism-is-normative-consciousness-the-emerald-podcast-with-joshua-michael-schrei/))
 
 You’re not trying to go backward into a past animism; you’re trying to *integrate the capacity for relationship-with-world* into a technological species.
 
@@ -1466,6 +1466,8 @@ Given your frame, a very “you” next step is to define (even roughly) the *ne
 That’s the “glowing path” made legible without turning into a manifesto.
 
 If you want, I can help you name 3–5 “value axioms” that would characterize the interbeing-compatible future *without* collapsing into relativism or Wilber-speak.
+
+
 :::
 
 :::human
