@@ -8,7 +8,7 @@ Can you compare and contrast today’s AI systems with the renderings in William
 :::
 
 :::ai
-[Neuromancer](chatgpt://generic-entity?number=0) landed astonishingly close to several structural truths about modern AI, but in ways that are more metaphorically accurate than technically predictive.
+_Neuromancer_ landed astonishingly close to several structural truths about modern AI, but in ways that are more metaphorically accurate than technically predictive.
 
 A few major parallels stand out:
 
