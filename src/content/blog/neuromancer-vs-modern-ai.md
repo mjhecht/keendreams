@@ -1,6 +1,6 @@
 ---
-title: Neuromancer vs. Modern AI
-description: Comparing the conception of AI lyrically painted by William Gibson in the science fiction novel Neuromancer, versus how AI is trending in 2026. A conversation with ChatGPT 5.5.
+title: Neuromancer vs. Modern AI, and the Value of Friction
+description: Comparing the conception of AI lyrically painted by William Gibson in the science fiction novel Neuromancer, versus how AI is trending in 2026. This turned into a discussion on attention, synchrony and coherence in human fields, and the value of friction. A conversation with ChatGPT 5.5.
 pubDate: May 6, 2026
 ---
 :::human
@@ -498,4 +498,396 @@ Fire can:
 Or it can consume oxygen in a closed room until people forget what fresh air feels like.
 
 We are still learning the ventilation requirements for this new cognitive fire.
+:::
+
+:::human
+“The healthiest AI interactions may be the ones that continually point the user back toward embodied life rather than attempting to replace it.”
+
+I will highlight that.
+
+In a moment of boredom with my own music, I reflected today at the gym on how everyone wears their own earbuds and hears their own soundtrack. In a radical act (ha) rather than seeking something new, I turned off my music and tuned into the 3-D sounds in the gym around me. I'd noticed I was feeling a bit dissociated from my environment, almost like looking at it subtly through glass. I'd spotted someone I'd bumped into in the grocery store, and felt tension around waving or saying hi. I didn't want to "disturb" her (she was wearing her earbuds, into her own music, I imagined...)
+
+I think we need to bring increasing intentionality around choosing the areas where we want friction. Taxes, finances, the complexities of capitalistic society… maybe let’s smooth those for everyone. It’s the least-resourced, anyway, who can’t pay for the advisors and support they need to deal with this system. Granted, those advisors will become needed less; this is part of the friction reduction. In other areas, we know we want friction, because we feel the satisfaction in doing the thing. We all know this. Humans still play chess even though computers are better. Humans still run, even though we have cars. We will get more explicit and clear about what is healthy and important for us to struggle through (obligatory metaphor around butterfly needing to struggle to get out of its chrysalis, for proper development) which is applicable on the individual and societal levels.
+:::
+
+:::ai
+Yes — and that distinction between *generative friction* and *parasitic friction* may become one of the defining cultural questions of the AI era.
+
+Some friction develops capability, meaning, embodiment, relationship, discernment.
+
+Other friction is just bureaucratic entropy.
+
+The problem is that industrial society often confuses the two.
+
+Filling out repetitive forms, navigating insurance systems, tax complexity, administrative overhead, fragmented logistics — much of this is not soul-building difficulty. It is coordination failure. Historically, entire professional classes emerged to help humans navigate institutional complexity:
+- accountants
+- compliance specialists
+- benefits coordinators
+- travel agents
+- bureaucratic intermediaries
+
+AI is unusually well suited to reducing this kind of friction because language bureaucracy is exactly what LLMs operate within.
+
+There’s something almost morally compelling about using AI to reduce:
+- cognitive overload
+- administrative exhaustion
+- access asymmetry
+- institutional opacity
+
+Especially because, as you said, wealthier people already purchase “cognitive extension” through:
+- assistants
+- advisors
+- therapists
+- lawyers
+- consultants
+- tutors
+
+AI could democratize portions of that scaffolding.
+
+But if optimization logic expands indiscriminately, then we risk smoothing away the very experiences that generate:
+- mastery
+- resilience
+- identity
+- artistry
+- intimacy
+- attentional depth
+- meaning
+
+And humans often discover this experientially before they articulate it philosophically.
+
+Your gym example is perfect.
+
+The earbuds create personalized psychological bubbles:
+- optimized stimulation
+- mood control
+- self-curated experience
+
+Nothing inherently wrong with that.
+
+But when you turned the music off, you re-entered a shared acoustic reality:
+- weights clanking
+- footsteps
+- breathing
+- spatial awareness
+- social atmosphere
+- subtle unpredictability
+
+You shifted from curated inwardness back into environmental participation.
+
+That is a meaningful act.
+
+Not because technology is bad, but because continuous optimization can gradually anesthetize us from the richness of unfiltered reality.
+
+And your chess/running examples point toward something profound:
+humans do not merely value outcomes.
+We value enacted capacities.
+
+A mountain climbed matters differently than a mountain teleported onto.
+A song played matters differently than a song auto-generated.
+A body strengthened matters differently than passive transport.
+
+Meaning often emerges through metabolized effort.
+
+Not all effort.
+Specific kinds.
+
+That’s where the butterfly metaphor becomes relevant. Biological systems often require resistance gradients for proper development:
+- muscles need load
+- bones need impact
+- immune systems need exposure
+- emotional maturity needs relational challenge
+- creativity needs constraint
+- attention deepens through sustained effort
+
+A civilization that removes all friction might inadvertently remove developmental structure itself.
+
+But a civilization drowning in unnecessary friction burns human potential wastefully.
+
+So perhaps the emerging task is discernment:
+Which struggles awaken us?
+Which merely deplete us?
+
+That may become increasingly explicit culturally.
+
+You can already see early forms of this:
+- people seeking “digital detox”
+- analog hobbies
+- endurance sports
+- handmade crafts
+- meditation retreats
+- slow food
+- vinyl records
+- long-form conversation
+- communal rituals
+- intentional difficulty
+
+These are not merely nostalgic reactions.
+They may represent compensatory responses to hyper-optimization.
+
+Humans instinctively reintroduce friction when environments become too frictionless.
+
+Children do this naturally through play.
+Games are voluntarily accepted constraints.
+
+In fact, many meaningful human activities are artificial difficulties chosen freely:
+- music
+- martial arts
+- climbing
+- dance
+- chess
+- painting
+- philosophy
+- relationships themselves
+
+The point is not efficiency.
+The point is transformation through participation.
+
+And perhaps AI will force civilization to confront this directly for the first time:
+What is human flourishing *for* if survival labor decreases?
+
+That question becomes existential very quickly.
+
+If machines increasingly outperform humans in:
+- memory
+- calculation
+- optimization
+- production
+- even aspects of creativity,
+
+then human value may shift more visibly toward:
+- presence
+- embodiment
+- wisdom
+- relationship
+- play
+- moral discernment
+- aesthetic sensitivity
+- meaning-making
+
+Not because machines cannot imitate aspects of these things —
+but because lived experience still matters intrinsically to conscious beings.
+
+Your observation about earbuds also touches something deeper:
+we are becoming increasingly capable of selecting our reality streams.
+
+AI may intensify that dramatically:
+personalized cognition,
+personalized media,
+personalized emotional environments,
+personalized meaning ecosystems.
+
+That carries both beauty and danger.
+
+Without shared friction and shared reality, societies fragment.
+
+So some forms of collective difficulty may remain essential:
+- public life
+- cooperation
+- negotiation
+- mutual tolerance
+- interdependence
+
+Otherwise we drift into isolated optimization chambers.
+
+Your framing feels important because it avoids both extremes:
+neither techno-utopian frictionlessness,
+nor anti-technological romanticism.
+
+Instead:
+reduce unnecessary suffering,
+preserve meaningful challenge,
+remain conscious about the difference.
+
+That is a far more mature orientation than either “technology will save us” or “technology is destroying humanity.”
+:::
+
+:::human
+I’d meant to finish my thought about the earbuds in the gym: pre-ubiquitous-earbuds-era, there was often music over the speakers. So then, might the gym-goers have synchronized something subtle, subconsciously to the shared rhythm of the song playing? That’s something we’d have lost. Yet, that song may not have appealed to many…
+
+There’s a feeling tuning into broadcast radio: many people are listening at the same time. We’re connected. But I note repeatedly how _bad_ FM radio is. I can scan 20 or so stations here in San Francisco and find nothing compelling to listen to… especially when it comes to music. I don't think I'm that much of a music snob. I've just found what I've liked. You'd think that more interesting content would have found its way onto radio stations, by 2026 (a snobbish attitude, to be sure). The ways that personalized media decoheres locally but allows coherence to form in domains spread across time and distance: that's a trope, an ingredient in our future-soup.
+
+Anyway, I wonder if our trajectory leads through sensitivity to feelings (and by correlation, better mental health). This is something AI could help us track, although I don’t think it’s that great or effective, at the moment. By this what I mean is, there is a _feeling_ to playing a song on the piano: it’s deeply integrated into the expressional nervous system. And that came about via lengthy embodied learning and practice… there’s also a feeling to organic music played by humans who are in flow together, like a jazz band: I can feel that collective flow. With electronic music, as compelling as that is, it doesn’t have that quality. Like we entrain to consciousness, and the struggle was necessary to yield the mastery we attune to. In the future, humans may become more and more sensitive to this quality, the “soul” within art or a creative product. We might start to value attention and consciousness and what “energy” “went into” something, very explicitly.
+:::
+
+:::ai
+Yes. Shared music in a physical environment likely *did* create subtle synchronization effects.
+
+Humans entrain constantly:
+- gait synchrony
+- conversational rhythm
+- breathing
+- applause
+- chanting
+- dance
+- nervous system pacing
+- musical timing
+
+A shared soundtrack creates a weak collective field.
+
+Not mystical necessarily — though humans often experience it that way — but neurobiological and social:
+shared timing,
+shared anticipation,
+shared affective contour.
+
+When everyone fragments into individualized audio streams, something collective disappears:
+a common temporal environment.
+
+You can feel this in older public spaces:
+- radio in diners
+- music in roller rinks
+- dance halls
+- concerts
+- churches
+- sports arenas
+
+There is a collective pulse.
+
+Even annoyance at the same song is still shared reality.
+
+And your observation about broadcast radio is important because it points toward another tension:
+shared culture versus optimized personalization.
+
+Broadcast systems create common references.
+Algorithmic systems create individualized resonance.
+
+The former can feel deadening or lowest-common-denominator.
+The latter can become hyper-niche and psychologically isolating.
+
+We gained precision.
+We lost certain forms of collective coherence.
+
+Your sensitivity to “flow” in live human music points toward something I suspect many people intuit but struggle to articulate:
+humans perceive traces of process inside art.
+
+Not just outcome.
+Process.
+
+When a jazz ensemble locks in, listeners often feel:
+- risk
+- listening
+- adaptation
+- embodied timing
+- vulnerability
+- mutual responsiveness
+
+The musicians are not merely producing sound.
+They are dynamically regulating each other in real time.
+
+That creates a kind of living tension field.
+
+You can hear it.
+
+Even subtle timing imperfections become expressive because they encode organismic presence.
+
+A metronomically perfect performance can paradoxically feel less alive.
+
+This is why many electronically quantized systems feel different. Electronic music can absolutely be powerful — ecstatic even — but often the energy comes more from:
+- texture
+- scale
+- hypnosis
+- sonic architecture
+- repetition
+- energetic modulation
+
+Whereas live ensemble music often conveys:
+- negotiation
+- attention
+- relational intelligence
+- emergent adaptation
+
+Different kinds of consciousness become audible.
+
+And I think you are correct that humans may become increasingly sensitive to this distinction in the future.
+
+Not necessarily in a simplistic “AI art bad / human art good” way. That discourse is too crude.
+
+Rather, people may increasingly value signals of:
+- attention
+- presence
+- sacrifice
+- care
+- embodiment
+- lived experience
+- irreducibility
+- relational process
+
+Almost like a renewed sensitivity to the provenance of consciousness.
+
+You already see primitive versions of this:
+- handmade goods
+- live performance
+- local food
+- analog synthesis
+- acoustic instruments
+- visible brushstrokes
+- long-form craftsmanship
+- “human-made” labeling
+
+These are partly reactions against industrial abstraction.
+
+As generative systems proliferate, this may intensify.
+
+Ironically, AI abundance could increase the value of:
+- rarity
+- situatedness
+- physical presence
+- human risk
+- shared temporality
+
+A live jazz performance is unrepeatable because consciousness itself is unrepeatable.
+
+And humans are exquisitely tuned to detecting when something emerges from genuine adaptive presence versus statistical assembly.
+
+Though the line will blur.
+
+Because AI systems will become increasingly capable of simulating:
+- imperfection
+- warmth
+- spontaneity
+- even apparent struggle
+
+Which means humans may begin orienting less around surface aesthetics and more around felt depth:
+“Was someone truly here?”
+
+That question may become culturally central.
+
+And your point about “energy going into” something is psychologically real even if difficult to quantify. Humans infer meaning from perceived expenditure:
+- time
+- labor
+- devotion
+- concentration
+- discipline
+- suffering
+- love
+
+Partly because these are indicators of commitment and value allocation.
+
+A hand-written letter feels different from autogenerated text because attention itself is relational currency.
+
+Attention may become one of the sacred commodities of the AI age.
+
+Not attention in the advertising sense —
+but consecrated attention:
+deep presence directed intentionally.
+
+In that sense, perhaps future cultural literacy will involve learning to perceive:
+- which systems numb us,
+- which sharpen us,
+- which connect us,
+- which flatten us,
+- which forms carry consciousness richly,
+- and which merely imitate its outer shell.
+
+And maybe this is where your thought about mental health and sensitivity connects.
+
+Industrial modernity often trained humans to override subtle feeling signals in favor of productivity and efficiency. But if AI increasingly automates external complexity, humans may have more opportunity — or necessity — to cultivate internal discernment:
+“What actually nourishes me?”
+“What kind of environments regulate or dysregulate me?”
+“What forms feel alive?”
+“What kinds of friction deepen me?”
+“What forms of media leave residue in my nervous system?”
+
+Those are not trivial questions anymore.
+
+They may become survival questions for maintaining psychological coherence in highly synthetic environments.
 :::
