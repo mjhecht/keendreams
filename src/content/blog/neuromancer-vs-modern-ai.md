@@ -21,7 +21,7 @@ A few major parallels stand out:
 
 But the texture of our world differs sharply from Gibson’s in important ways.
 
-One of Gibson’s core intuitions was that intelligence would emerge inside vast institutional systems rather than from lone inventors. That part looks increasingly correct. Training frontier models requires enormous capital expenditure: datacenters, GPUs, energy, networking, specialized talent, proprietary datasets, distribution layers. The modern equivalents of Tessier-Ashpool are probably closer to [OpenAI](chatgpt://generic-entity?number=1), [Google](chatgpt://generic-entity?number=2), [Microsoft](chatgpt://generic-entity?number=3), [Meta](chatgpt://generic-entity?number=4), and perhaps state-backed actors. The scale barrier is real.
+One of Gibson’s core intuitions was that intelligence would emerge inside vast institutional systems rather than from lone inventors. That part looks increasingly correct. Training frontier models requires enormous capital expenditure: datacenters, GPUs, energy, networking, specialized talent, proprietary datasets, distribution layers. The modern equivalents of Tessier-Ashpool are probably closer to OpenAI, Google, Microsoft, Meta, and perhaps state-backed actors. The scale barrier is real.
 
 But Gibson imagined AI more as bounded entities trapped behind corporate walls — imprisoned gods trying to break containment. Today’s systems feel less like singular sovereign minds and more like gigantic probabilistic infrastructures:
 - foundation models
