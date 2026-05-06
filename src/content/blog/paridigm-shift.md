@@ -1378,7 +1378,7 @@ But that’s another layer.
 :::
 
 :::human
-Let's delve into that, for the moment. I like using the metaphor of AI being like fire. It seems to me what it can change is not only how we chew food and digest nutrients, but how we chew _information_ and digest thought-nutrients. AI has the potential to change how we learn. I am witnessing my younger brother write a scientific paper for journal publication in a field he has zero prior experience with, through deep dialog with AI systems which are giving him the kind of crash course yet even precision of thinking that can enable him to understand this domain. I'm seeing how it helps me integrate and understand the philosophical ideas I touched in grad school. There's that *New Yorker* article: [“Will the Humanities Survive Artificial Intelligence?” by D. Graham Burnett](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence)
+Let's delve into that, for the moment. I like using the metaphor of AI being like fire. It seems to me what it can change is not only how we chew food and digest nutrients, but how we chew _information_ and digest thought-nutrients. AI has the potential to change how we learn. I am witnessing my younger brother write a scientific paper for journal publication in a field he has zero prior experience with, through deep dialog with AI systems which are giving him the kind of crash course yet even precision of thinking that can enable him to understand this domain. I'm seeing how it helps me integrate and understand the philosophical ideas I touched in grad school. There's that *New Yorker* article: [“Will the Humanities Survive Artificial Intelligence?” by D. Graham Burnett](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence).
 
 Clearly we are at the tip of the iceberg as we contemplate how technology can and will help us learn. Remember _Diamond Age_, by Neil Stephenson? He was starting to contemplate these ideas, with the AI-"iPad" sort of teaching device, and his idea of 'ractors who are humans guided by AI that teach children, yet preserve nervous system attunement. Stephenson seems to contemplate the idea of attunement, a lot: he had those drummers, in one of his books... humans entraining their nervous systems through an altered-state extended living environment in some kind of cave, where rhythm created an extended consciousness field.
 
@@ -1412,12 +1412,12 @@ Your “chewing information” metaphor is structurally right:
 But the deeper shift is: **who is the knower?**  
 Is knowledge still something you “earn” through slow apprenticeship, or something you “navigate” through dialogue with a cognitive exoskeleton?
 
-That question is exactly why people are reacting so intensely in education and the humanities. Burnett’s New Yorker essay is basically wrestling with that threshold moment. ([The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence)) Princeton’s English department even explicitly frames the “AI age” as a reconfiguration of humanities teaching (and cites Burnett’s piece as a reference point). ([Department of English](https://english.princeton.edu/news/future-humanities-teaching-ai-age-according-professors-martin-dolven-cole-and-more))
+That question is exactly why people are reacting so intensely in education and the humanities. Burnett’s New Yorker essay is basically wrestling with that threshold moment ([The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence)). Princeton’s English department even explicitly frames the “AI age” as a reconfiguration of humanities teaching (and cites Burnett’s piece as a reference point) ([Department of English](https://english.princeton.edu/news/future-humanities-teaching-ai-age-according-professors-martin-dolven-cole-and-more)).
 
 ---
 
 ## *The Diamond Age* nailed the missing ingredient: attunement
-Stephenson’s “ractor” concept is a perfect integrator object lesson: a *human performer* improvising with AI support, so the interaction retains human responsiveness and care. ([ifwiki.org](https://www.ifwiki.org/Ractive?utm_source=chatgpt.com))
+Stephenson’s “ractor” concept is a perfect integrator object lesson: a *human performer* improvising with AI support, so the interaction retains human responsiveness and care ([ifwiki.org](https://www.ifwiki.org/Ractive?utm_source=chatgpt.com)).
 
 That maps cleanly onto what you’re pointing at:
 
@@ -1437,9 +1437,9 @@ One reason psychedelic discourse feels “paradigm-level” is that it doesn’t
 - what is a person?
 - what is the cosmos we belong to?
 
-That’s why voices like Brian Swimme land here: cosmology as a “fundamental story” humans live within, shaping what we consider meaningful and possible. ([Grateful.org](https://grateful.org/resource/dsr-cosmic-story))
+That’s why voices like Brian Swimme land here: cosmology as a “fundamental story” humans live within, shaping what we consider meaningful and possible ([Grateful.org](https://grateful.org/resource/dsr-cosmic-story)).
 
-And why podcasts like *The Emerald* resonate: they’re not primarily “information delivery,” they’re **re-storying**—recovering relational world-sense (animism / mythic intimacy) as an antidote to modern abstraction. ([Podcast Notes](https://podcastnotes.org/the-emerald-podcast-with-joshua-michael-schrei/animism-is-normative-consciousness-the-emerald-podcast-with-joshua-michael-schrei/))
+And why podcasts like *The Emerald* resonate: they’re not primarily “information delivery,” they’re **re-storying**—recovering relational world-sense (animism / mythic intimacy) as an antidote to modern abstraction ([Podcast Notes](https://podcastnotes.org/the-emerald-podcast-with-joshua-michael-schrei/animism-is-normative-consciousness-the-emerald-podcast-with-joshua-michael-schrei/)).
 
 You’re not trying to go backward into a past animism; you’re trying to *integrate the capacity for relationship-with-world* into a technological species.
 
