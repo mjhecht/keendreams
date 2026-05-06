@@ -61,3 +61,18 @@
   border-style: solid;
   border-color: var(--secondaryColor) transparent transparent transparent;
 }
+
+.prose p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+}
