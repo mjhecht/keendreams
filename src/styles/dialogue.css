@@ -62,7 +62,8 @@
   border-color: var(--secondaryColor) transparent transparent transparent;
 }
 
-.prose p {
+.prose p,
+blockquote {
   margin-top: 0;
   margin-bottom: 1em;
 }
