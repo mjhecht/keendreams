@@ -85,6 +85,20 @@ a {
 a:hover {
   color: var(--accent);
 }
+/* External links (target="_blank", set by rehype-external-links) get a small
+   Wikipedia-style icon. Internal/relative links are untouched. */
+.prose a[target="_blank"]::after {
+  content: "";
+  display: inline-block;
+  width: 0.72em;
+  height: 0.72em;
+  margin-left: 0.18em;
+  vertical-align: -0.05em;
+  background-color: currentColor;
+  opacity: 0.6;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='black'%20stroke-width='2.2'%20stroke-linecap='round'%20stroke-linejoin='round'%3E%3Cpath%20d='M14%204h6v6'/%3E%3Cpath%20d='M11%2013%2020%204'/%3E%3Cpath%20d='M19%2014v5a1%201%200%200%201-1%201H5a1%201%200%200%201-1-1V6a1%201%200%200%201%201-1h5'/%3E%3C/svg%3E") no-repeat center / contain;
+          mask: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='black'%20stroke-width='2.2'%20stroke-linecap='round'%20stroke-linejoin='round'%3E%3Cpath%20d='M14%204h6v6'/%3E%3Cpath%20d='M11%2013%2020%204'/%3E%3Cpath%20d='M19%2014v5a1%201%200%200%201-1%201H5a1%201%200%200%201-1-1V6a1%201%200%200%201%201-1h5'/%3E%3C/svg%3E") no-repeat center / contain;
+}
 p {
   margin-bottom: 1em;
 }
