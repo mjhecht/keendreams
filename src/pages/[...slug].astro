@@ -2,11 +2,11 @@
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BlogPost from '../layouts/BlogPost.astro';
 import { render } from 'astro:content';
-import {normalizePost} from "./helpers.js";
+import {normalizePost, isPublished} from "./helpers.js";
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
-  const posts = allPosts.map(normalizePost);
+  const posts = allPosts.filter(isPublished).map(normalizePost);
 	return posts.map((post) => ({
 		params: { slug: post.id },
 		props: post,

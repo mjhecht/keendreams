@@ -26,3 +26,8 @@ export function normalizePost(post) {
     },
   };
 }
+
+// A post is published unless it's flagged draft OR lives in the drafts/ folder.
+export function isPublished(post) {
+  return post.data.draft !== "true" && !post.id.startsWith("drafts/");
+}

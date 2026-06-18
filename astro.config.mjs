@@ -9,7 +9,7 @@ import { visit } from "unist-util-visit";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://mjhecht.github.io",
+  site: "https://blog.pltfrm.com",
   base: "/",
   integrations: [mdx(), sitemap()],
   markdown: {
@@ -37,7 +37,7 @@ export default defineConfig({
         {
           // "obsidian-short" handles [[filename]] and [[filename|Alias]]
           pathFormat: "obsidian-short",
-          hrefTemplate: (permalink, alias) => `/blog/${permalink}`,
+          hrefTemplate: (permalink, alias) => `/${permalink}`,
         },
       ],
     ],

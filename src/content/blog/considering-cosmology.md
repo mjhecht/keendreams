@@ -1,7 +1,7 @@
 ---
 pubDate: July 26 2025
 description: This conversation started as a simple question about the origins of the universe — but quickly expanded into reflections on consciousness, psychedelic insight, AI’s role in symbolic thought, and the difference between theory and cosmology. Along the way, I revisited Whitehead, Grof, Brian Swimme, and my own relationship to meaning
-heroImage: /gpt-cosmology.png
+heroImage: ./images/gpt-cosmology.png
 ---
 I've been having these little conversations with ChatGPT while eating. This particular conversation (with GPT-4o) revolved around cosmology: an origin story within which theory exists, rather than theory itself. The discussion helped me contextualize and revisit material I studied in grad school, and clarify the difference between cosmology and theory.
 
