@@ -13,7 +13,7 @@ I’d just attended [Visionary Convergence](https://www.plantteachers.com/progra
 
 :::right{.wide}
 ![Harvelle's interior photo: Dennis Jones' band performance](./images/harvelles-dennis_jones.jpg)
-*From the performance where I incurred the hearing trauma*
+*Photo from the actual performance where I incurred the hearing damage*
 :::
 
 The next week, still riding that social and spiritual high, I accepted an invitation from some older friends to attend a blues performance. I figured I'd wear my trusty Etymotic -20dB musician’s earplugs, which had worked effectively in some pretty loud places before. I knew I had sensitive hearing, so I was careful to use protection religiously. At this performance, I wore my earplugs for the whole time: my friends and I stayed for a couple hours. I didn’t drink, and just tried to observe, appreciate the vibe, and the musicianship and Dennis' electric guitar-playing skills, hanging out with my friends. It was pretty darn loud in there, but never occurred to me that my earplugs wouldn’t be enough.
