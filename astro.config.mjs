@@ -17,17 +17,28 @@ export default defineConfig({
     remarkPlugins: [
       remarkDirective,
       function attacher() {
+        // Map container-directive names (:::name) to a wrapping div + class.
+        const classFor = {
+          ai: "ai",
+          human: "human",
+          written: "written",
+          left: "img-left", // :::left  — float a figure left, text wraps
+          right: "img-right", // :::right — float a figure right, text wraps
+        };
         return tree => {
           visit(tree, node => {
             if (
               node.type === "containerDirective" &&
-              (node.name === "ai" ||
-                node.name === "human" ||
-                node.name === "written")
+              classFor[node.name]
             ) {
+              // Merge any author-supplied classes, e.g. :::left{.wide}
+              const extra =
+                node.attributes && node.attributes.class
+                  ? ` ${node.attributes.class}`
+                  : "";
               node.data = {
                 hName: "div",
-                hProperties: { className: node.name },
+                hProperties: { className: `${classFor[node.name]}${extra}` },
               };
             }
           });

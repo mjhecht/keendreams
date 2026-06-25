@@ -122,7 +122,68 @@ img {
 }
 .prose img {
   display: block;
-  margin: 2em auto;
+  margin: 1.5em auto;
+}
+/* Floated figures: author as :::left / :::right around an image (and an
+   optional caption line). Text wraps alongside on desktop. */
+.prose .img-left,
+.prose .img-right {
+  width: 33%;
+  margin-top: 0.4em;
+  margin-bottom: 1em;
+}
+/* :::left{.wide} / :::right{.wide} — half-width instead of a third. */
+.prose .img-left.wide,
+.prose .img-right.wide {
+  width: 50%;
+}
+.prose .img-left {
+  float: left;
+  margin-right: 1.5em;
+}
+.prose .img-right {
+  float: right;
+  margin-left: 1.5em;
+}
+.prose .img-left :is(p, img),
+.prose .img-right :is(p, img) {
+  width: 100%;
+  margin: 0;
+}
+/* A new section starts below any floated figure above it. */
+.prose h2,
+.prose h3 {
+  clear: both;
+}
+@media (max-width: 720px) {
+  /* On phones, floated figures become full-width like inline images. */
+  .prose .img-left,
+  .prose .img-right,
+  .prose .img-left.wide,
+  .prose .img-right.wide {
+    float: none;
+    width: 100%;
+    margin: 1.5em auto;
+  }
+  .prose .img-left :is(p, img),
+  .prose .img-right :is(p, img) {
+    margin: 0 auto;
+  }
+}
+/* Image with an italic caption on the next line: tighten the gap
+   and shrink the caption. Only applies to captioned images. */
+.prose p:has(> img):has(> em) {
+  text-align: center;
+}
+.prose p:has(> img):has(> em) > img {
+  margin-bottom: 0;
+}
+.prose p:has(> img):has(> em) > em {
+  display: block;
+  margin-top: 0.4em;
+  font-size: 0.8em;
+  line-height: 1.3;
+  color: rgb(var(--gray));
 }
 code {
   padding: 2px 5px;
@@ -150,7 +211,7 @@ hr {
     font-size: 18px;
   }
   main {
-    padding: 1em;
+    padding: 1em 1.75em;
   }
 }
 
