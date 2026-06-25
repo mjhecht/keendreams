@@ -19,47 +19,117 @@
   font-family: monospace;
 }
 
+/* ---------------------------------------------------------------------------
+   Speech bubbles (:::human / :::ai)
+   Comic-style: rounded panel, alternating fill, a soft drop shadow, and a
+   curved tail drawn as a masked pseudo-element (no images). drop-shadow()
+   (not box-shadow) is used so the shadow wraps the tail seamlessly.
+--------------------------------------------------------------------------- */
+.human,
+.ai {
+  position: relative;
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  border-radius: 14px;
+  filter: drop-shadow(0 4px 6px rgba(15, 18, 25, 0.18));
+}
 .human {
   background-color: var(--primaryBackground);
-  border-left: 4px solid var(--primaryColor);
-  padding: 1rem;
-  margin: 2rem 0;
-  border-radius: 0.5rem;
-  position: relative;
 }
-
-.human::after {
-  content: "";
-  position: absolute;
-  left: 16px; /* Adjust to position the arrow */
-  bottom: -12px;
-  width: 0;
-  height: 0;
-  border-width: 12px 12px 0 0;
-  border-style: solid;
-  border-color: var(--primaryColor) transparent transparent transparent;
-  /* This creates a little triangle "tail" at the bottom left */
-}
-
 .ai {
   background-color: var(--secondaryBackground);
-  border-right: 4px solid var(--secondaryColor);
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 0.5rem;
-  position: relative;
 }
 
+/* Tail: a small box just below the bubble, filled with the bubble's own
+   colour (via inherit) and clipped to a curved-tail shape by an SVG mask. */
+.human::after,
 .ai::after {
   content: "";
   position: absolute;
-  right: 16px;
-  bottom: -12px;
-  width: 0;
-  height: 0;
-  border-width: 12px 0 0 12px;
-  border-style: solid;
-  border-color: var(--secondaryColor) transparent transparent transparent;
+  bottom: -17px;
+  width: 26px;
+  height: 20px;
+  background-color: inherit;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+.human::after {
+  left: 24px;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M8%200%20L26%200%20C22%208%2014%2014%200%2020%20C8%2012%2010%206%208%200%20Z'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M8%200%20L26%200%20C22%208%2014%2014%200%2020%20C8%2012%2010%206%208%200%20Z'/%3E%3C/svg%3E");
+}
+.ai::after {
+  right: 24px;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M18%200%20L0%200%20C4%208%2012%2014%2026%2020%20C18%2012%2016%206%2018%200%20Z'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M18%200%20L0%200%20C4%208%2012%2014%2026%2020%20C18%2012%2016%206%2018%200%20Z'/%3E%3C/svg%3E");
+}
+
+/* ---------------------------------------------------------------------------
+   Quoted GPT markdown reads tighter and smaller inside the bubbles, since
+   it's quoted material rather than the author's own prose.
+--------------------------------------------------------------------------- */
+.ai :is(h1, h2, h3, h4, h5, h6),
+.human :is(h1, h2, h3, h4, h5, h6) {
+  line-height: 1.25;
+  margin: 0.9em 0 0.3em;
+}
+.ai h1,
+.human h1 {
+  font-size: 1.3em;
+}
+.ai h2,
+.human h2 {
+  font-size: 1.2em;
+}
+.ai h3,
+.human h3 {
+  font-size: 1.1em;
+}
+.ai :is(h4, h5, h6),
+.human :is(h4, h5, h6) {
+  font-size: 1em;
+}
+/* First/last child hug the bubble edges. */
+.ai > :first-child,
+.human > :first-child {
+  margin-top: 0;
+}
+.ai > :last-child,
+.human > :last-child {
+  margin-bottom: 0;
+}
+
+/* Lists: normal spacing (the global negative top-margin makes them mash). */
+.ai :is(ul, ol),
+.human :is(ul, ol) {
+  margin: 0.5em 0 1em;
+  padding-left: 1.5em;
+}
+.ai li,
+.human li {
+  margin-bottom: 0.3em;
+}
+
+/* Tables: smaller text + light cell borders so quoted tables stay tidy. */
+.ai table,
+.human table {
+  font-size: 0.8em;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+.ai :is(th, td),
+.human :is(th, td) {
+  border: 1px solid rgba(15, 18, 25, 0.15);
+  padding: 0.35em 0.55em;
+  text-align: left;
+  vertical-align: top;
+}
+.ai th,
+.human th {
+  background: rgba(15, 18, 25, 0.04);
 }
 
 .prose p,

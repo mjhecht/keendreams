@@ -131,6 +131,7 @@ img {
   width: 33%;
   margin-top: 0.4em;
   margin-bottom: 1em;
+  text-align: center; /* center the caption under the image */
 }
 /* :::left{.wide} / :::right{.wide} — half-width instead of a third. */
 .prose .img-left.wide,
@@ -149,6 +150,34 @@ img {
 .prose .img-right :is(p, img) {
   width: 100%;
   margin: 0;
+}
+/* Linked images (e.g. a thumbnail linking out to YouTube) shouldn't show the
+   external-link arrow that text links get. (Specific enough to beat the
+   a[target="_blank"]::after icon rule.) */
+.prose a[target="_blank"]:has(img)::after,
+.prose a:has(img)::after {
+  content: none;
+}
+/* Add {.video} to overlay a YouTube-style play button on a linked image,
+   e.g. :::right{.video}. Anchored to the LINK (which wraps only the image),
+   so it centers over the image regardless of any caption below. Click passes
+   through to the link. */
+.prose .video a:has(img) {
+  position: relative;
+  display: block;
+}
+.prose .video a:has(img)::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 24%;
+  aspect-ratio: 68 / 48;
+  pointer-events: none;
+  z-index: 1;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.45));
+  background: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2068%2048'%3E%3Cpath%20d='M66.5%207.5c-.8-3-2.5-5.3-5.5-6.1C55.5%200%2034%200%2034%200S12.5%200%207%201.4C4%202.2%202.3%204.5%201.5%207.5%200%2013%200%2024%200%2024s0%2011%201.5%2016.5c.8%203%202.5%205.3%205.5%206.1C12.5%2048%2034%2048%2034%2048s21.5%200%2027-1.4c3-.8%204.7-3.1%205.5-6.1C68%2035%2068%2024%2068%2024s0-11-1.5-16.5z'%20fill='%23f00'/%3E%3Cpath%20d='M27%2034l18-10-18-10z'%20fill='%23fff'/%3E%3C/svg%3E")
+    center / contain no-repeat;
 }
 /* A new section starts below any floated figure above it. */
 .prose h2,
@@ -171,14 +200,15 @@ img {
   }
 }
 /* Image with an italic caption on the next line: tighten the gap
-   and shrink the caption. Only applies to captioned images. */
-.prose p:has(> img):has(> em) {
+   and shrink the caption. `:has(img)` (descendant, not `> img`) so it also
+   covers linked images, e.g. a thumbnail wrapped in a YouTube link. */
+.prose p:has(img):has(> em) {
   text-align: center;
 }
-.prose p:has(> img):has(> em) > img {
+.prose p:has(img):has(> em) img {
   margin-bottom: 0;
 }
-.prose p:has(> img):has(> em) > em {
+.prose p:has(img):has(> em) > em {
   display: block;
   margin-top: 0.4em;
   font-size: 0.8em;
@@ -205,6 +235,7 @@ blockquote {
 hr {
   border: none;
   border-top: 1px solid rgb(var(--gray-light));
+  margin: 2.5em 0;
 }
 @media (max-width: 720px) {
   body {
