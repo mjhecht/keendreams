@@ -6,6 +6,12 @@
 
   --paper: rgb(222, 222, 222);
   --paperEdge: rgb(128, 128, 128);
+
+  /* Speaker badge icons (monochrome SVG masks). Swap any data-URI to refine. */
+  --icon-brain: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='black'%20stroke-width='1.5'%20stroke-linecap='round'%20stroke-linejoin='round'%3E%3Cpath%20d='M12%205C10%203.5%207%204%206.5%206.5%204.5%206.8%204%209%205.2%2010.2%203.8%2011.5%204.8%2014%207%2014%207.2%2016%2010.5%2016.2%2012%2015'/%3E%3Cpath%20d='M12%205c2-1.5%205-1%205.5%201.5%202%20.3%202.5%202.5%201.3%203.7%201.4%201.3%20.4%203.8-1.8%203.8-.2%202-3.5%202.2-5%20.8'/%3E%3Cpath%20d='M12%205v10'/%3E%3C/svg%3E");
+  --icon-ai: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='black'%3E%3Cpath%20d='M12%200c.5%206.5%201.5%2010.5%2012%2012-10.5%201.5-11.5%205.5-12%2012-.5-6.5-1.5-10.5-12-12%2010.5-1.5%2011.5-5.5%2012-12Z'/%3E%3C/svg%3E");
+  --icon-gpt: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='black'%20stroke-width='1.5'%3E%3Cellipse%20cx='12'%20cy='12'%20rx='9.5'%20ry='4'/%3E%3Cellipse%20cx='12'%20cy='12'%20rx='9.5'%20ry='4'%20transform='rotate(60%2012%2012)'/%3E%3Cellipse%20cx='12'%20cy='12'%20rx='9.5'%20ry='4'%20transform='rotate(120%2012%2012)'/%3E%3C/svg%3E");
+  --icon-claude: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='black'%20stroke-width='1.6'%20stroke-linecap='round'%3E%3Cpath%20d='M12%202.5v19M2.5%2012h19M5.4%205.4l13.2%2013.2M18.6%205.4%205.4%2018.6'/%3E%3C/svg%3E");
 }
 
 .written {
@@ -29,9 +35,11 @@
 .ai {
   position: relative;
   padding: 1rem 1.25rem;
-  margin: 2rem 0;
+  margin: 2rem 0 5rem; /* extra bottom room for the speaker icon below the tail */
   border-radius: 14px;
-  filter: drop-shadow(0 4px 6px rgba(15, 18, 25, 0.18));
+  /* tight darker shadow defines the edge (traces the tail too), soft one adds depth */
+  filter: drop-shadow(0 1px 1px rgba(15, 18, 25, 0.32))
+    drop-shadow(0 5px 9px rgba(15, 18, 25, 0.22));
 }
 .human {
   background-color: var(--primaryBackground);
@@ -56,14 +64,63 @@
   mask-size: contain;
 }
 .human::after {
-  left: 24px;
+  left: 39px;
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M8%200%20L26%200%20C22%208%2014%2014%200%2020%20C8%2012%2010%206%208%200%20Z'/%3E%3C/svg%3E");
   mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M8%200%20L26%200%20C22%208%2014%2014%200%2020%20C8%2012%2010%206%208%200%20Z'/%3E%3C/svg%3E");
 }
 .ai::after {
-  right: 24px;
+  right: 34px;
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M18%200%20L0%200%20C4%208%2012%2014%2026%2020%20C18%2012%2016%206%2018%200%20Z'/%3E%3C/svg%3E");
   mask-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2020'%3E%3Cpath%20d='M18%200%20L0%200%20C4%208%2012%2014%2026%2020%20C18%2012%2016%206%2018%200%20Z'/%3E%3C/svg%3E");
+}
+
+/* ---------------------------------------------------------------------------
+   Speaker badges — who is talking. A small monochrome mark pinned to the
+   bubble's top corner on the speaker's side. :::ai{.gpt} / :::ai{.claude}
+   switch the AI mark; the default is a generic AI sparkle.
+--------------------------------------------------------------------------- */
+.human::before,
+.ai::before {
+  content: "";
+  position: absolute;
+  top: auto;
+  opacity: 0.55; /* relatively faint against the page */
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+/* Human: the charcoal sketch as an alpha matte (darkness → opacity), filled
+   with the bubble blue. Keeps the sketch's tonal detail, drops the paper
+   cleanly, and tints to the theme colour. */
+.human::before {
+  left: 2px;
+  bottom: -68px;
+  width: 56px;
+  height: 47px; /* matches the brain PNG's 512×429 ratio */
+  background-color: var(--primaryColor);
+  -webkit-mask-image: url("/icons/human_brain_alpha.png");
+  mask-image: url("/icons/human_brain_alpha.png");
+}
+/* AI marks: monochrome SVG silhouettes filled with the bubble green. */
+.ai::before {
+  right: 8px;
+  bottom: -62px;
+  width: 38px;
+  height: 38px;
+  background-color: var(--secondaryColor);
+  -webkit-mask-image: var(--icon-ai);
+  mask-image: var(--icon-ai);
+}
+.ai.gpt::before {
+  -webkit-mask-image: var(--icon-gpt);
+  mask-image: var(--icon-gpt);
+}
+.ai.claude::before {
+  -webkit-mask-image: var(--icon-claude);
+  mask-image: var(--icon-claude);
 }
 
 /* ---------------------------------------------------------------------------
@@ -104,7 +161,7 @@
 /* Lists: normal spacing (the global negative top-margin makes them mash). */
 .ai :is(ul, ol),
 .human :is(ul, ol) {
-  margin: 0.5em 0 1em;
+  margin: 0.25em 0 1em;
   padding-left: 1.5em;
 }
 .ai li,
@@ -130,6 +187,13 @@
 .ai th,
 .human th {
   background: rgba(15, 18, 25, 0.04);
+}
+
+/* Horizontal rules inside quoted sections: tight, darker, dotted. */
+.ai hr,
+.human hr {
+  margin: 0.6em 0;
+  border-top: 2px dotted rgb(var(--gray));
 }
 
 .prose p,
