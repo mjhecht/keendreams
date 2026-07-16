@@ -17,9 +17,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<BaseHead title={title} description={description} />
 		<style>
 			main {
-				width: calc(100% - 2em);
+				width: 100%;
 				max-width: 100%;
-				margin: 0;
+				margin: 0 auto;
+				box-sizing: border-box; /* padding counts inside the 100% */
 			}
 			.hero-image {
 				width: 100%;
@@ -40,6 +41,15 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin: auto;
 				padding: 1em;
 				color: rgb(var(--gray-dark));
+			}
+			@media (max-width: 720px) {
+				/* Phones: collapse the nested insets — global main padding
+				   (0.75rem) is the only horizontal chrome left. */
+				.prose {
+					max-width: 100%;
+					padding: 1em 0.25rem;
+					box-sizing: border-box;
+				}
 			}
 			.title {
 				margin-bottom: 1em;

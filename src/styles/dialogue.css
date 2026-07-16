@@ -176,6 +176,9 @@
   width: 100%;
   border-collapse: collapse;
   margin: 1em 0;
+  /* wide tables scroll inside the bubble instead of stretching the page */
+  display: block;
+  overflow-x: auto;
 }
 .ai :is(th, td),
 .human :is(th, td) {

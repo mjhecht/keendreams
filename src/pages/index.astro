@@ -70,6 +70,11 @@ const posts = (await getCollection('blog')).filter(isPublished).sort(
 			.card a.cover:hover img { box-shadow: var(--box-shadow); }
 
 			@media (max-width: 720px) {
+				/* Phones: drop the -2em inset; global main padding is the gutter. */
+				main {
+					max-width: 100%;
+					box-sizing: border-box; /* padding counts inside the 100% */
+				}
 				ul.posts {
 					grid-template-columns: 1fr;
 					gap: 2rem;

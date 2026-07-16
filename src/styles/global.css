@@ -43,6 +43,8 @@ body {
   overflow-wrap: break-word;
   color: rgb(var(--gray-dark));
   line-height: 1.5;
+  /* never allow stray wide content to scroll the whole page sideways */
+  overflow-x: clip;
 }
 main {
   width: 720px;
@@ -223,6 +225,7 @@ code {
 pre {
   padding: 1.5em;
   border-radius: 8px;
+  overflow-x: auto;
 }
 pre > code {
   all: unset;
@@ -242,7 +245,8 @@ hr {
     font-size: 18px;
   }
   main {
-    padding: 1em 1.75em;
+    /* rem (not em) so the 18px mobile font bump doesn't widen the gutters */
+    padding: 1em 0.75rem;
   }
 }
 
