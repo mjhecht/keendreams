@@ -217,6 +217,14 @@ img {
   line-height: 1.3;
   color: rgb(var(--gray));
 }
+mark.highlight {
+  /* ==highlighted text==. Soft wash rather than the browser default yellow,
+     with a touch of side padding so it doesn't crowd adjacent words. */
+  background-color: #fff2a8;
+  color: inherit;
+  padding: 0.05em 0.15em;
+  border-radius: 2px;
+}
 code {
   padding: 2px 5px;
   background-color: rgb(var(--gray-light));

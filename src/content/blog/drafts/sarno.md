@@ -1,7 +1,7 @@
 ---
 title: Sarno and Mind/Body Holism
 description: TBD
-pubDate: Jun 30 206
+pubDate: Jun 30 2026
 draft: "true"
 ---
 I was sick with a bad cold and had flu-like symptoms as well; at one point I coughed very hard and it felt like something popped out of place in my low back. This was the second or third time I’d pulled something there, which was much worse this time: When I tried to stand up, my whole lower body would spasm with pain, and all I could do was move out of that position and lay in bed. I later dragged myself in crab-like fashion to get a ride to a chiropractor’s office. In a couple weeks I was slowly hobbling around with a stick, and months later seemed to have recovered as well as I was going to: a knot in my back remaining that was aggravated by running, extended sitting, and other positions, and a feeling of fragility. Then I remembered that someone had recommended _Healing Back Pain_ years ago, so I ordered and began reading the book.

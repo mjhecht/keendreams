@@ -4,6 +4,7 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import remarkDirective from "remark-directive";
 import wikiLink from "@portaljs/remark-wiki-link";
+import remarkFlexibleMarkers from "remark-flexible-markers";
 import rehypeExternalLinks from "rehype-external-links";
 
 import { visit } from "unist-util-visit";
@@ -44,6 +45,13 @@ export default defineConfig({
           });
         };
       },
+      [
+        // ==highlighted text== -> <mark class="highlight">. Micromark-based,
+        // so it nests correctly with other inline markup and is ignored
+        // inside code spans and fences.
+        remarkFlexibleMarkers,
+        { markerClassName: "highlight" },
+      ],
       [
         wikiLink,
         {
